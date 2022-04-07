@@ -64,6 +64,11 @@ body {
     .card-grid {
         grid-template-columns: repeat(1, 1fr);
     }
+    /* .videoSection {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    } */
 
 }
 
@@ -153,8 +158,3 @@ video {
     word-spacing: 100vw;
 }
 
-.videoSection {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
